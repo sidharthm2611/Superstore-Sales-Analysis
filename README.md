@@ -24,8 +24,11 @@ regions, categories, segments, and time to uncover key business insights.
 
 ## 📊 Dashboard Preview
 
-### Overview
+## 📊 Dashboard Overview
+![Sales Dashboard Overview](SALES_DASHBOARD_OVERVIEW....png)
 
+## 📈 Year over Year
+![Sales Dashboard YoY](SALES_DASHBOARD_YoY.png)
 
 ### Month Sales & Profit by Year-over-Year
 
