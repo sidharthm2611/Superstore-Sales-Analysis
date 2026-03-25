@@ -34,7 +34,7 @@ regions, categories, segments, and time to uncover key business insights.
 ## 📝 Conclusion
 
 This "Superstore Sales Dashboard" reveals that the store generated $450.2K in total sales
-across 6,251 orders with 53K units sold** across 4 regions (Central, East, South, West).
+across 6,251 orders with 53K units sold across 4 regions (Central, East, South, West).
 
 Consumer segment dominates with 50% of sales, followed by Corporate (31%) and 
 Home Office (18%). Standard Class is the most preferred shipping mode.
