@@ -24,7 +24,6 @@ regions, categories, segments, and time to uncover key business insights.
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Overview
 ![Sales Dashboard Overview](SALES_DASHBOARD_OVERVIEW....png)
 
 ## 📈 Year over Year
